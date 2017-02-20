@@ -13,7 +13,7 @@ export default {
             clearTimeout(timer);
             timer = setTimeout(() => {
                 $alert.remove();
-            }, 20000);
+            }, 2000);
         }           
     }
 }
