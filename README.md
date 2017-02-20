@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> 初窥Vue.js Demo ( vue + vue-router )
 
 ## Build Setup
 
