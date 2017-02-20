@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> 一个Vue的小Demo( vue + vue-router )
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm run dev
 
 # build for production with minification
